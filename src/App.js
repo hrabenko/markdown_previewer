@@ -1,6 +1,5 @@
 import React from 'react';
 import { marked } from 'marked';
-import 'bootstrap/dist/css/bootstrap.css';
 
 
 class App extends React.Component {
